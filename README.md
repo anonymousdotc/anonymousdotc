@@ -1,14 +1,14 @@
-# Anonymousdotc Classic Exchenge Interface
+# Anonymousdotc OTC trading platform
 
 Forked from Etherum, and updated to work with Anonymousdotc contracts.
 
-## Accessing the Anonymousdotc Classic Exchange Interface
+## Accessing the Anonymousdotc OTC trading platform
 
 To access the Anonymousdotc, visit [Anonymousdotc.com](https://Anonymousdotc.com).
 
 ## Development
 
-### Install Dependencies
+### Install Dependencies（Please use imtoken Wallet）
 
 ```bash
 yarn
