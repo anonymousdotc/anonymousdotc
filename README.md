@@ -1,10 +1,10 @@
-# Anonymousdotc Classic Exchengex Interface
+# Anonymousdotc Classic Exchenge Interface
 
-Forked from [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-interface), and updated to work with SushiSwap contracts.
+Forked from Etherum, and updated to work with Anonymousdotc contracts.
 
-## Accessing the SushiSwap Classic Exchange Interface
+## Accessing the Anonymousdotc Classic Exchange Interface
 
-To access the SushiSwap Exchnage, visit [exchange.sushiswapclassic.org](https://exchange.sushiswapclassic.org/#/).
+To access the Anonymousdotc, visit [Anonymousdotc.com](https://Anonymousdotc.com).
 
 ## Development
 
